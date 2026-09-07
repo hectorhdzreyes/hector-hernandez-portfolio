@@ -19,5 +19,9 @@ python3 -m http.server 8000
 
 Then visit http://localhost:8000
 
-## Deploy (GitHub Pages)
-Push this folder to a GitHub repository and enable Pages (Settings → Pages → Deploy from branch `main` / root).
+## Live site (GitHub Pages)
+**https://hectorhdzreyes.github.io/hector-hernandez-portfolio/**
+
+Anyone can open that link in a browser (no login required).
+
+Repo: https://github.com/hectorhdzreyes/hector-hernandez-portfolio
